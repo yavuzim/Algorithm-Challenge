@@ -1,0 +1,13 @@
+C:\Users\YAVUZ İMER\Desktop\Main\Main\bin\Debug\netcoreapp3.1\Main.exe
+C:\Users\YAVUZ İMER\Desktop\Main\Main\bin\Debug\netcoreapp3.1\Main.deps.json
+C:\Users\YAVUZ İMER\Desktop\Main\Main\bin\Debug\netcoreapp3.1\Main.runtimeconfig.json
+C:\Users\YAVUZ İMER\Desktop\Main\Main\bin\Debug\netcoreapp3.1\Main.runtimeconfig.dev.json
+C:\Users\YAVUZ İMER\Desktop\Main\Main\bin\Debug\netcoreapp3.1\Main.dll
+C:\Users\YAVUZ İMER\Desktop\Main\Main\bin\Debug\netcoreapp3.1\Main.pdb
+C:\Users\YAVUZ İMER\Desktop\Main\Main\obj\Debug\netcoreapp3.1\Main.csprojAssemblyReference.cache
+C:\Users\YAVUZ İMER\Desktop\Main\Main\obj\Debug\netcoreapp3.1\Main.AssemblyInfoInputs.cache
+C:\Users\YAVUZ İMER\Desktop\Main\Main\obj\Debug\netcoreapp3.1\Main.AssemblyInfo.cs
+C:\Users\YAVUZ İMER\Desktop\Main\Main\obj\Debug\netcoreapp3.1\Main.csproj.CoreCompileInputs.cache
+C:\Users\YAVUZ İMER\Desktop\Main\Main\obj\Debug\netcoreapp3.1\Main.dll
+C:\Users\YAVUZ İMER\Desktop\Main\Main\obj\Debug\netcoreapp3.1\Main.pdb
+C:\Users\YAVUZ İMER\Desktop\Main\Main\obj\Debug\netcoreapp3.1\Main.genruntimeconfig.cache

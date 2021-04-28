@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m/ggzphP4y8tb8xtj+w43hDY+KK+WixdjYVg98D8JHQ2CMsTzcx9tXEdwlS3Jc3SShCUUbSrsXV1P595df6FTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YAVUZ İMER\\Desktop\\Main\\Main\\Main.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YAVUZ İMER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
